@@ -7,8 +7,7 @@ Tech Stack:
 
 How to Run:
 Backend:
-run Spring Boot app
+run java application(Spring Boot)
 
 Frontend:
-npm install
 npm start
